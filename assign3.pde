@@ -177,9 +177,6 @@ switch (start){
        }
        break;        
      }
- 
- //restrat
- default:
 
 }
 
